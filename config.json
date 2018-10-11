@@ -2,7 +2,7 @@
   "DataFolder": "/home/cubox/paste/",
   "FormTitle": "content",
   "IdLength": 5,
-  "IdSet": "abcdefjhijklmnopqrstuvwxyzABCDEFJHIJKLMNOPQRSTUVWXYZ1234567890$£&@()[]{}#€%/*-+"'-_¨ù^µ,;:!?.§><²",
+  "IdSet": "abcdefjhijklmnopqrstuvwxyzABCDEFJHIJKLMNOPQRSTUVWXYZ1234567890$£&@()[]{}#€%/*-+'-_¨ù^µ,;:!?.§><²",
   "StaticFiles": [
     "index.html",
     "style.css"
